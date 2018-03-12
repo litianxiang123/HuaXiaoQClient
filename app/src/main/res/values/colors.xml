@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="line">#D4D7DA</color>
+    <color name="black">#444444</color>
+    <color name="crowd_error">#f7645c</color>
+    <color name="color_c7c7c7">#c7c7c7</color>
+    <color name="colorRed">#FC5459</color>
+    <color name="transla">#00000000</color>
+    <color name="colorGrayF3">#f2f2f2</color><!-- 我的页面底色 -->
+    <color name="black_transparent">#66000000</color>
+    <color name="color_blue">#cc35A7FF</color>
+</resources>

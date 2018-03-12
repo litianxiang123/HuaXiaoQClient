@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true">
+    <LinearLayout
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:background="@color/colorWhite"
+        android:gravity="center_vertical">
+        <RelativeLayout
+            android:id="@+id/title_back"
+            android:layout_width="40dp"
+            android:layout_height="match_parent">
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@mipmap/pic_back"
+            android:layout_marginLeft="15dp"
+            android:layout_centerVertical="true"
+            />
+        </RelativeLayout>
+        <com.hxq.huaxiaoqclient.widget.SearchWidget
+            android:id="@+id/search_goods"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginRight="30dp"/>
+
+    </LinearLayout>
+    <View style="@style/line"/>
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:id="@+id/page_tab_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorWhite"
+        android:cacheColorHint="@color/colorWhite"
+        android:divider="@color/line"
+        android:dividerHeight="1dip"
+        android:fadingEdge="none"
+        android:fastScrollEnabled="false"
+        android:headerDividersEnabled="false"
+        android:smoothScrollbar="true"
+        android:visibility="visible"
+        ptr:ptrMode="both" />
+</LinearLayout>

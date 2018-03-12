@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id="@+id/no_conect_layout">
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:src="@mipmap/no_connect"
+    />
+    <TextView
+        android:id="@+id/refresh_webview"
+        android:layout_width="123dp"
+        android:layout_height="38dp"
+        android:background="@drawable/action_choose_btn"
+        android:text="刷新试试"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:layout_marginTop="31dp"/>
+</LinearLayout>

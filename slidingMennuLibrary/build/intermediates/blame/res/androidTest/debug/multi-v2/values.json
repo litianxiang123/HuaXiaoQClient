@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\XBHH\\HuaXiaoQClient\\slidingMennuLibrary\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\XBHH\\HuaXiaoQClient\\slidingMennuLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "1092",
+                        "endColumns": "42",
+                        "endOffsets": "1130"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\XBHH\\HuaXiaoQClient\\slidingMennuLibrary\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\XBHH\\HuaXiaoQClient\\slidingMennuLibrary\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "14",
+                        "startColumns": "4",
+                        "startOffsets": "1092",
+                        "endColumns": "42",
+                        "endOffsets": "1130"
+                    }
+                }
+            ]
+        }
+    ]
+}

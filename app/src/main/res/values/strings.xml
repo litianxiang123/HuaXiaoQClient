@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">花小钱</string>
+    <string name="main">花小钱--从这里开始</string>
+    <string name="CNY">¥</string>
+    <string name="search_hint">搜你想要的,搜吧</string>
+    <string name="update_notification_downloading">正在下载</string>
+    <string name="update_notification_download_finish">下载完成</string>
+    <string name="update_notification_install_apk">下载完成，点击安装</string>
+    <string name="couponacount">还剩%s件</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="30dp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_search_widget"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/shp_search_frame">
+
+        <LinearLayout
+            android:id="@+id/cont"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_search_mirror"
+                android:layout_width="14dp"
+                android:layout_height="14dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="8dp"
+                android:src="@mipmap/ic_search_mirror" />
+
+            <EditText
+                android:id="@+id/et_search"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="6dp"
+                android:layout_marginRight="16dp"
+                android:layout_toLeftOf="@+id/iv_homepage_cleartext"
+                android:layout_toRightOf="@+id/iv_search_mirror"
+                android:background="@null"
+                android:gravity="center_vertical"
+                android:hint="@string/search_hint"
+                android:imeOptions="actionSearch"
+                android:singleLine="true"
+                android:textColorHint="#a2a2a2"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/iv_homepage_cleartext"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="8dp"
+            android:src="@mipmap/ic_clear_text" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,902 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_31.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_31.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_33.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_33.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_22.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_22.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_36.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_00.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_00.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_30.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_30.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_19.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_19.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_31.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_31.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_16.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_16.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_05.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_05.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_13.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_13.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_02.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_02.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_02.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_02.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_28.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_28.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_18.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_18.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_38.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_38.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_04.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_04.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_01.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_16.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_16.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_31.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_31.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_31.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_31.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_29.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_29.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_15.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_15.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_28.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_28.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_02.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_02.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_33.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_33.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_14.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_14.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_03.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_03.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_17.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_17.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_11.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_11.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_28.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_28.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_26.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_21.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_21.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_26.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_04.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_04.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_09.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_09.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_08.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_08.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_24.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_35.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_35.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_04.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_04.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_14.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_16.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_16.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_15.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_15.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_12.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_12.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_35.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_35.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_27.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_27.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_00.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_00.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_16.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_10.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_10.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_09.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_09.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_06.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_06.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_00.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_00.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_34.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_34.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_37.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_37.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_07.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_07.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_08.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_08.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_11.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_11.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_06.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_06.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_24.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_24.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_24.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_24.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_05.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_05.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_07.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_07.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_10.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_10.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_06.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_06.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_38.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_38.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_27.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_27.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_12.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_12.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_07.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_07.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_07.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_07.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_05.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_05.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_11.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_11.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_20.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_20.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_36.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_36.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_30.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_10.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_10.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_23.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_23.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_37.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_37.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_00.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_00.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_26.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_22.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_22.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_11.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_11.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_36.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_36.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_09.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_09.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_04.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_04.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_17.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_17.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_25.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_25.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_30.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_18.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_18.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_20.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_20.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_27.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_27.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_16.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_16.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_16.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_16.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_12.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_12.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_10.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_27.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_27.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_21.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_21.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_25.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_25.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_08.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_08.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_01.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_01.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_05.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_05.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_14.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_21.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_21.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_10.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_10.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_02.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_00.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_00.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_07.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_07.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_26.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_06.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_06.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_00.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_00.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_01.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_15.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_15.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_29.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_29.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_28.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_28.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_01.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_29.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_29.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_29.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_29.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_15.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_15.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_17.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_17.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_14.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_14.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_01.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_01.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_32.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_32.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_32.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_32.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_15.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_15.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_35.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_35.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_20.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_20.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_01.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_01.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_13.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_13.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_12.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_12.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_30.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_03.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_03.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_20.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_20.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_17.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_17.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_31.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_31.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_06.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_06.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_29.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_29.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_34.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_34.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_15.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_15.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_26.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_26.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_25.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_25.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_20.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_20.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_19.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_19.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_22.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_22.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_02.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_02.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_02.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_02.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_27.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_27.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_13.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_13.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_20.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_20.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_08.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_08.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_13.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_13.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_21.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_21.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_22.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_22.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_19.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_19.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_13.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_13.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_24.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_24.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_25.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_25.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_21.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_21.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_18.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_11.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_11.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_19.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_19.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_38.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_38.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_03.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_03.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_37.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_37.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_03.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_17.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_30.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_30.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_28.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_28.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_14.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_14.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_39.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_39.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_22.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_22.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_23.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_23.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_25.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_25.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_31.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_31.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_24.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_24.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_10.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_10.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_13.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_13.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_19.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_19.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_23.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_23.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_08.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_08.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_04.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_04.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_39.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_39.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_25.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_25.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_23.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_23.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_09.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_09.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_23.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_23.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_26.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_26.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_06.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_06.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_12.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_12.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_07.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_07.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_18.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_18.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_34.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_34.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_18.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_18.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_03.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_03.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_18.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_18.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_33.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_33.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_39.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_39.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_09.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_09.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_14.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_14.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_21.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_21.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_19.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_19.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_17.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_17.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_12.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_12.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_05.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_05.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_22.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_22.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_32.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_32.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_04.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_04.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_30.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_30.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_24.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_05.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_05.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_08.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_08.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_03.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_03.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_11.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_11.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_23.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_23.png"
+    },
+    {
+        "merged": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_27.png",
+        "source": "D:\\XBHH\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_27.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_09.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_09.png"
+    },
+    {
+        "merged": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_loading_29.png",
+        "source": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_loading_29.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\dropdown_anim_28.png",
+        "source": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\dropdown_anim_28.png"
+    }
+]

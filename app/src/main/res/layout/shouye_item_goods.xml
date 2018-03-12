@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_goods_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorWhite"
+
+    >
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="15dp"
+            android:paddingLeft="15dp">
+            <RelativeLayout
+                android:layout_width="125dp"
+                android:layout_height="125dp">
+            <ImageView
+                android:id="@+id/goods_img"
+                android:layout_width="125dp"
+                android:layout_height="125dp"
+                android:layout_marginTop="15dp"
+                android:scaleType="centerCrop" />
+                <TextView
+                    android:id="@+id/couponcount"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/color_blue"
+                    android:textColor="@color/colorWhite"
+                    android:gravity="center"
+                    android:textSize="11dp"/>
+            </RelativeLayout>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+
+                    <TextView
+                        android:id="@+id/goods_name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="1"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:text="名字adsfadfadfa你塔顶放辣椒地方垃圾地方垃圾地方垃圾地方"
+                        android:textColor="@color/black"
+                        android:textSize="16dp"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
+                <TextView
+                    android:id="@+id/account"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dp"
+                    android:textSize="12dp"
+                    android:textColor="@color/colorWhite"
+                    android:paddingTop="2dp"
+                    android:paddingBottom="2dp"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    android:text="ewjewjowjewew"/>
+                <LinearLayout
+                    android:id="@+id/price"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:gravity="bottom"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/goods_quan"
+                        android:layout_width="wrap_content"
+                        android:layout_height="17dp"
+                        android:background="@color/crowd_error"
+                        android:gravity="center"
+                        android:paddingLeft="4dp"
+                        android:paddingRight="4dp"
+                        android:text="券后"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="12dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="-2dp"
+                        android:layout_marginLeft="5dp"
+                        android:text="@string/CNY"
+                        android:textColor="@color/crowd_error"
+                        android:textSize="15dp" />
+
+                    <TextView
+                        android:id="@+id/goods_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="-3dp"
+                        android:layout_marginLeft="4dp"
+                        android:text="100"
+                        android:textColor="@color/crowd_error"
+                        android:textSize="30dp" />
+
+                </LinearLayout>
+
+
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_above="@+id/price"
+                        android:layout_marginBottom="17dp"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/goods_from"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="淘宝价"
+                            android:textColor="@color/color_c7c7c7"
+                            android:textSize="11dp" />
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="3dp"
+                            android:text="@string/CNY"
+                            android:textColor="@color/color_c7c7c7"
+                            android:textSize="8dp" />
+
+                        <TextView
+                            android:id="@+id/goods_old_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="300"
+                            android:textColor="@color/color_c7c7c7"
+                            android:textSize="13dp" />
+
+                    </LinearLayout>
+                </RelativeLayout>
+        </LinearLayout>
+
+</RelativeLayout>

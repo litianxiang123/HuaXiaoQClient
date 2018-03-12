@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:id="@+id/root">
+    <RelativeLayout
+        android:id="@+id/title_aligoods_show"
+        android:layout_width="match_parent"
+        android:layout_height="50dp">
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/back"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/title_tv"
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:maxLength="13"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:layout_centerInParent="true"
+
+            android:textStyle="bold"/>
+    </RelativeLayout>
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/title_aligoods_show"
+        android:background="@color/colorGrayF3"
+        />
+    <LinearLayout
+        android:id="@+id/isShowPersionOrCollection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="25dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="60dp"
+        android:orientation="vertical">
+    </LinearLayout>
+    <include android:id="@+id/no_net_connect_view"
+        layout="@layout/nonet_connect_layout"
+        android:visibility="gone"/>
+    <include android:id="@+id/error_net_connect_view"
+        layout="@layout/neterror_layout"
+        android:visibility="gone"/>
+</RelativeLayout>

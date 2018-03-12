@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 72,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 113,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 113,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 76,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 76,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 75,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 75,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 60,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 60,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 66,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 66,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 64,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 64,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 63,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "F:\\youle\\android\\hxq\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 63,
+                        "endOffset": 647
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 72,
+                    "endOffset": 123
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 72,
+                        "endOffset": 123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 128,
+                    "endColumn": 113,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 128,
+                        "endColumn": 113,
+                        "endOffset": 237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 76,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 242,
+                        "endColumn": 76,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 75,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 319,
+                        "endColumn": 75,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 60,
+                    "endOffset": 451
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 60,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 456,
+                    "endColumn": 66,
+                    "endOffset": 518
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 66,
+                        "endOffset": 518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 523,
+                    "endColumn": 64,
+                    "endOffset": 583
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 523,
+                        "endColumn": 64,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 588,
+                    "endColumn": 63,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator.PC201605051820\\Desktop\\HuaXiaoQClient\\pulltofresh\\build\\intermediates\\bundles\\debug\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 63,
+                        "endOffset": 647
+                    }
+                }
+            }
+        ]
+    }
+]
